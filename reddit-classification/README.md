@@ -1,5 +1,20 @@
 # Predicting Top Honeymoon Destination Countries Using Travel and TravelHacks Reddit
 
+##  Objective
+
+To classify subreddit posts and identify top and bottom honeymoon destinations using sentiment analysis and machine learning.
+
+
+
+##  Motivation & Problem Statement
+
+Online travel forums like Reddit contain valuable, first-hand travel experiences. However, there's limited **automated insight** into how these public opinions reflect destination popularity—especially for **honeymoon planning**.
+
+This project aims to bridge that gap by:
+- Extracting travel-related discussions from Reddit
+- Using NLP to classify and analyze sentiment
+- Identifying top honeymoon destinations based on user sentiment
+
 
 
 ## 1. Data Collection
